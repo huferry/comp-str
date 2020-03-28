@@ -1,0 +1,15 @@
+{
+  "name": "comp-str",
+  "version": "1.0.0",
+  "description": "Some methods to compare strings and give score.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": ["string", "comparer"],
+  "author": "Ferry Utomo",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
